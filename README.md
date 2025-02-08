@@ -74,9 +74,9 @@ I'm an AI assistant created to help with a wide range of topics, from answering 
 
 ## ✨ Features
 
-✅ **DeepSeek-R1** for intelligent responses  
-✅ **Groq API** for ultra-fast language model inference
-✅ Answers questions, generates text, and more
+- ✅ **DeepSeek-R1** for intelligent responses  
+- ✅ **Groq API** for ultra-fast language model inference
+- ✅ Answers questions, generates text, and more
 
 ---
 
