@@ -60,6 +60,17 @@ nodemon .
 The chatbot will now be active and ready to interact in your Discord server!
 
 ---
+## 🚀 Usage
+
+Mention the name or the username of the bot you created. Example:
+```sh
+@ai-chatbot Who are you?
+```
+Sample Response:
+```sh
+I'm an AI assistant created to help with a wide range of topics, from answering questions to providing guidance and solutions. My goal is to assist you in the most helpful and clear way possible. Whether you're troubleshooting tech issues, need explanations, or want advice on a problem, I'm here to help! Let me know what you need, and I'll do my best to provide a useful response.
+```
+---
 
 ## ✨ Features
 
