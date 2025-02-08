@@ -62,7 +62,7 @@ The chatbot will now be active and ready to interact in your Discord server!
 ---
 ## 🚀 Usage
 
-Mention the name or the username of the bot you created. Example:
+Mention the bot's name or username in Discord to start a conversation. Example:
 ```sh
 @ai-chatbot Who are you?
 ```
