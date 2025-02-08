@@ -86,4 +86,4 @@ client.on(Events.MessageCreate, async (msg) => {
   }
 });
 
-client.login(TOKEN);
+client.login("<Discord bot token>");
