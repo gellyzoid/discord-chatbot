@@ -1,6 +1,6 @@
-# 🚀 Discord ChatBot powered by DeepSeek-R1 & Groq API
+# 🚀 Discord ChatBot powered by OpenAI & Groq API
 
-A powerful Discord chatbot leveraging **DeepSeek-R1** and **Groq API** for intelligent interactions. This bot provides a wide range of functionalities, including answering questions, generating text, and much more.
+A powerful Discord chatbot leveraging **OpenAI** and **Groq API** for intelligent interactions. This bot provides a wide range of functionalities, including answering questions, generating text, and much more.
 
 ---
 
@@ -81,7 +81,7 @@ Use the command below to list other available commands
 
 ## ✨ Features
 
-✅ **DeepSeek-R1** for intelligent responses
+✅ **OpenAI** gpt-oss-120b model for intelligent responses
 
 ✅ **Groq API** for ultra-fast language model inference
 
