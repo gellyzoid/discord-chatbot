@@ -14,7 +14,7 @@ A powerful Discord chatbot leveraging **DeepSeek-R1** and **Groq API** for intel
 4. Under the **"TOKEN"** section, click **Copy** (Keep this secure!).
 5. In the **"OAuth2"** section, generate the invite link:
    ```
-   https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=0&scope=bot%20applications.commands
+   https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot%20applications.commands
    ```
    Replace `YOUR_CLIENT_ID` with your bot's client ID.
 
