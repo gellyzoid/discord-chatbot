@@ -70,6 +70,13 @@ Sample Response:
 ```sh
 I'm an AI assistant created to help with a wide range of topics, from answering questions to providing guidance and solutions. My goal is to assist you in the most helpful and clear way possible. Whether you're troubleshooting tech issues, need explanations, or want advice on a problem, I'm here to help! Let me know what you need, and I'll do my best to provide a useful response.
 ```
+
+You can reply to the bot response without mentioning it again by clicking the reply button in the discord server.
+
+Use the command below to list other available commands 
+```
+!help
+```
 ---
 
 ## ✨ Features
@@ -85,7 +92,7 @@ I'm an AI assistant created to help with a wide range of topics, from answering 
 ## ⚠️ Important Notes
 
 🔒 **Keep your API keys & tokens secure** – Reset them if leaked.  
-📜 Ensure you have permissions to use the Groq API & DeepSeek-R1.
+📜 Ensure you have permissions to use the Groq API.
 
 ---
 
